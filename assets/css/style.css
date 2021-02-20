@@ -1,0 +1,220 @@
+/* HEADER DO SISTEMA */
+
+/*
+#378EA2 // azul
+#F8AE41 // amarelo
+#F7F7F7 // branco
+#F5F5F5 // branco sc
+*/
+
+
+body {
+	margin: 0;
+	padding: 0;
+}
+section {
+	padding: 20px;
+}
+
+
+
+.header_top {
+	margin: 0;
+	padding: 0;
+}
+
+.header_top>div {
+	height: 4px;
+}
+
+
+.top_1 {
+	background-color: #F8AE41;
+}
+.top_2 {
+	background-color: #F7F7F7;
+}
+.top_3 {
+	background-color: #378EA2;
+}
+
+header {
+	background-color: #378EA2;
+	min-height: 154px;
+	
+}
+header,footer {
+	margin-right: 0px !important;
+	margin-left: 0px !important;
+	
+}
+.header_corpo {
+ 	padding: 40px;
+}
+
+/* PÁGINA DO SISTEMA  */
+
+#sistema {
+
+}
+
+.sistema_formulario_busca {
+
+	-webkit-box-shadow: 1px 3px 13px -5px rgba(0,0,0,0.74);
+	-moz-box-shadow: 1px 3px 13px -5px rgba(0,0,0,0,74);
+	box-shadow: 1px 3px 13px -5px rgba(0,0,0,0,74);
+	border-radius: 10px;
+	
+}
+
+.sistema_titulo {
+	color: #378EA2 ;
+}
+.sistema_formulario_busca>form {
+
+}
+.botao_busca {
+	width: 50px;
+	height: 50px;
+	background-color: #F8AE41;
+}
+/*
+.nome_naoconsta {
+	font-size:12px;
+	color:#F8AE41;
+	margin-left: 20px;
+	padding-bottom: 10px;
+}
+*/
+
+.form_botao {
+	min-width: 100px !important;
+}
+
+/* FOOTER */
+
+footer {
+	background-color: #378EA2;
+	min-height: 100px;
+	padding: 20px;
+}
+.footer_img {
+	
+	width: 50px;
+}
+
+
+
+/*PÁGINA DO SISTEMA */
+
+.instituicao_ul>a {
+	text-decoration: none;
+}
+
+
+hr{
+	border-color: #cccccc;
+  }
+.contato {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #F7F7F7;
+}
+.mjd {
+	font-family: 'Times New Roman', Times, serif;
+	font-size: 12px;
+	color: #F7F7F7;
+}
+.mjd a {
+	text-decoration: none;
+}
+
+/* =====================================================================================================================================================
+								   PÁGINA GERAR RELATÓRIOS 
+	======================================================================================================================================================*/
+.section_relatorio {
+	margin: 0px;
+	padding: 0px;
+}
+.img_header {
+	width: 750px;
+	margin: 0px;
+	padding: 0px;
+	height: 150px;
+}
+.img_footer {
+	width: 750px;
+	margin: 0px;
+	padding: 0px;
+	height: 140px;
+}
+.titulo_relatorio {
+	margin-left: 250px;
+}
+.text_relatorio {
+	margin-left: 80px;
+}
+.input_relatorio {
+	
+}
+.logo_mjd img {
+	width: 50px;
+	height: 50px;
+	margin-left: 330px;
+}
+.autenticidade_relatorio {
+	margin-left: 230px;
+}
+
+.linha_autenticidade {
+	margin-left: 20px;
+	width: 710px;
+}
+.titulo_cadastro {
+	margin-left: 250px;
+}
+.emoticon_cadastro img {
+	margin-left: 480px;
+	width: 30px;
+	height: 30px;
+}
+.cadastro_relatorio {
+	margin-left: 80px;
+	font-size: 15px;
+	color: #F8AE41;
+}
+.linha1 {
+	border: 1px solid #ccc ;
+	margin-left: 60px;
+	width: 130px;
+}
+.recadastramento_relatorio {
+	font-size: 15px;
+	color: #F8AE41;
+	margin-left: 370px;
+}
+.linha2 {
+	margin-left: 350px;
+	width: 180px;
+	border: 1px solid #ccc ;
+}
+.footer_relatorio_cadastro {
+	width: 300px;
+}
+.observacao_relatorio {
+	margin-left: 50px;
+	font-size: 10px;
+}
+.img_fazer img {
+	width: 700px;
+	margin-left: 20px;
+}
+
+
+@page {
+    size: 21cm 29.7cm;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
