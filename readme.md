@@ -1,6 +1,6 @@
 <h1 align="center">:books: CLESCC :books:</h1>
 
-<p align="center">O Sistema CLESCC é um sistema para consulta de lista estudantil na cidade de Camaçari-BA desenvolvido com o intuito de solucionar a demanda de digitalização na renovação do passe estudantil naquela localidade, contato como minha primeira pratica profissional.</p>
+<p align="center">O Sistema CLESCC é um sistema para consulta de lista estudantil na cidade de Camaçari-BA desenvolvido com o intuito de solucionar a demanda de digitalização na renovação do passe estudantil naquela localidade, sendo minha primeira pratica profissional.</p>
 
 ## :camera: Demonstração
 
